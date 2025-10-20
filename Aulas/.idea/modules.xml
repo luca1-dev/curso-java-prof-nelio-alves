@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aulas.iml" filepath="$PROJECT_DIR$/.idea/Aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura condicional/Estrutura condicional.iml" filepath="$PROJECT_DIR$/Estrutura condicional/Estrutura condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura repetitivas/Estrutura repetitivas.iml" filepath="$PROJECT_DIR$/Estrutura repetitivas/Estrutura repetitivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura sequencial/Estrutura sequencial.iml" filepath="$PROJECT_DIR$/Estrutura sequencial/Estrutura sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Outros topicos basicos/Outros topicos basicos.iml" filepath="$PROJECT_DIR$/Outros topicos basicos/Outros topicos basicos.iml" />
+    </modules>
+  </component>
+</project>
